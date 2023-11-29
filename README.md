@@ -7,8 +7,7 @@ This repository contains a React Native Android application and a Flask applicat
 - Ensure that you have Node.js installed on your local machine. 
 
 - Run the following commands in the root directory
-```npm install```
-```npm start```
+```npm install``` and ```npm start```
 
 - This will start the development server. You can then open the app on your Android device or emulator. [Reference](https://reactnative.dev/docs/environment-setup) 
 
