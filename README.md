@@ -11,7 +11,7 @@ This repository contains a React Native Android application and a Flask applicat
 
 - This will start the development server. You can then open the app on your Android device or emulator. [Reference](https://reactnative.dev/docs/environment-setup) 
 
-- If you want to modify the routes or any other part of the app, you can do so in the `/screens/Detect.js` file.
+- If you want to modify the routes of the app, you can do so in the `/screens/Detect.js` file.
 ## Setting Up and Running the Flask App 
 
 - The Flask app is located in a folder called `flaskAppForModel`. Navigate to this folder in your terminal and run flask_app.py.
